@@ -20,7 +20,7 @@ I also got very good at using the `tkinter` module, which could be seen in my ha
 
 This was my first project, so I didn't yet understand the idea of using multiple files for cleaner code. Instead, I used a similar method for one file to that which I used in "The Soul of Etria".  
 
-The code is unorganised with comments not being very common. This really shows how much I progressed.
+The code is unorganised with comments not being very common.
 
 Since I wasn't familiar at the time with object oriented programming, I remember barely understanding how to use two classes, instead of how many classes I probably should have used.
 
